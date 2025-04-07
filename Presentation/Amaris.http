@@ -1,0 +1,6 @@
+@Amaris_HostAddress = http://localhost:5282
+
+GET {{Amaris_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

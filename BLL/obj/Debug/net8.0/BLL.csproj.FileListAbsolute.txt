@@ -1,0 +1,15 @@
+C:\Users\frena\OneDrive\Documentos\Primo\Amaris\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\frena\OneDrive\Documentos\Primo\Amaris\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\frena\OneDrive\Documentos\Primo\Amaris\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\frena\OneDrive\Documentos\Primo\Amaris\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\frena\OneDrive\Documentos\Primo\Amaris\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\frena\OneDrive\Documentos\Primo\Amaris\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\frena\OneDrive\Documentos\Primo\Amaris\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frena\OneDrive\Documentos\Primo\Amaris\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\frena\OneDrive\Documentos\Primo\Amaris\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\frena\OneDrive\Documentos\Primo\Amaris\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\frena\OneDrive\Documentos\Primo\Amaris\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\frena\OneDrive\Documentos\Primo\Amaris\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\frena\OneDrive\Documentos\Primo\Amaris\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\frena\OneDrive\Documentos\Primo\Amaris\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\frena\OneDrive\Documentos\Primo\Amaris\BLL\obj\Debug\net8.0\ref\BLL.dll
